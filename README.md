@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **william.guinaudie@gmail.com**
 
-- 🏠 I currently live in Lille, France but can easily be in paris with the TGV(1 hour)!
+- 🏠 I currently live in Lille, France but can easily be in Paris with the TGV(1 hour)!
 
 - ⚡ Fun fact **I natively speak both English & French**
 
