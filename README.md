@@ -15,5 +15,5 @@
 
 - ⚡ Fun fact **I natively speak both English & French**
 
-[![NeoHuncho's GitHub stats](https://github-readme-stats.vercel.app/api?username=neohuncho&show_icons=true&theme=dracula)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neohuncho&layout=compact&theme=dracula)]
+![NeoHuncho's GitHub stats](https://github-readme-stats.vercel.app/api?username=neohuncho&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neohuncho&layout=compact&theme=dracula)
