@@ -16,7 +16,7 @@
 - ⚡ Fun fact **I natively speak both English & French**
 
 <hr/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neohuncho&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="neohuncho" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neohuncho&exclude_repo=my-portfolio old&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="neohuncho" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=neohuncho&show_icons=true&locale=en&theme=chartreuse-dark" alt="neohuncho" width="410" /></p>
 <br><br><br><br><br>
 <hr>
