@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm William Guinaudie @NeoHuncho</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 🔭 I’m currently working for [Cagette & Paprika](https://www.cagette-et-paprika.com/) as a full stack developer
+- 🔭 I’m currently working for [Zenride](https://zenride.co/) as a full stack developer
 
 - 👀 I’m interested in everything to do with coding, sustainability and slow travel.
 
