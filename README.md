@@ -1,6 +1,10 @@
 <div align="center">
-<h1 align="center">Hi 👋, I'm William Guinaudie @NeoHuncho</h1>
-<h2 align="center">Full Stack Developer</h2>
+<h1 >Hi 👋, I'm William Guinaudie @NeoHuncho</h1>
+<h2 >Full Stack Developer</h2>
+
+[My Projects](https://folio.williamguinaudie.com/my-projects)
+
+  <hr/>
 <div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=neohuncho&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&exclude_repo=my-portfolio-old" alt="most used languages" width="410" />
 <br>
