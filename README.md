@@ -1,26 +1,56 @@
+<div align="center">
 <h1 align="center">Hi 👋, I'm William Guinaudie @NeoHuncho</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h2 align="center">Full Stack Developer</h2>
+<div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=neohuncho&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&exclude_repo=my-portfolio-old" alt="most used languages" width="410" />
+<br>
+<br>
+<img  src="https://github-readme-stats.vercel.app/api?username=neohuncho&show_icons=true&locale=en&theme=chartreuse-dark" alt="github stats" width="410" />
+</div>
 
-- 🔭 I’m currently working for [Zenride](https://zenride.co/) as a full stack developer
-
-- 👀 I’m interested in everything to do with coding, sustainability and slow travel.
-
-- 💞️ I’m looking to contribute to open-source projects during this summer.
-
-- 👨‍💻 All of my projects are available at [https://williamguinaudie.com](https://williamguinaudie.com)
-
-- 📫 How to reach me **william.guinaudie@gmail.com**
-
-- 🏠 I currently live in Lille, France but can easily be in Paris with the TGV(1 hour)!
-
-- ⚡ Fun fact **I natively speak both English & French**
-
-<hr/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neohuncho&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&exclude_repo=my-portfolio-old" alt="neohuncho" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=neohuncho&show_icons=true&locale=en&theme=chartreuse-dark" alt="neohuncho" width="410" /></p>
-<br><br><br><br><br>
-<hr>
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=neohuncho&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
-
-
+  <div>
+    <h3>Languages</h3>
+    <img width="6" />
+    <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+    <img width="6" />
+    <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
+    <img width="6" />
+    <img src="https://skillicons.dev/icons?i=regex" height="40" alt="regex logo"  />
+  </div>
+  <div>
+    <h3>Frameworks</h3>
+    <img width="6" />
+    <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+    <img width="6" />
+    <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+    <img width="6" />
+    <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+    <img width="6" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" alt="sequelize logo"  />
+    <img width="6" />
+  </div>
+  <div>
+    <h3>Databases</h3>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+    <img width="6" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
+    <img width="6" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+    <img width="6" />
+    <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
+  </div>
+  <div>
+    <h3>Tools</h3>
+    <img width="6" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="eslint logo"  />
+    <img width="6" />
+    <img src="https://github.com/kibotrel/kibotrel/assets/45034541/35dc9106-f040-4951-8503-13ab7ba17043" height="40" alt="prettier logo"  />
+    <img width="6" />
+    <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="vscode logo"  />
+    <img width="6" />
+    <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+    <img width="6" />
+    <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
+    <img width="6" />
+</div>
+</div>
