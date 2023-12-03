@@ -1,14 +1,14 @@
 <div align="center">
-<h5 >Full Stack Developer</h5>
+<h3>Full Stack Developer</h3>
 
 [My Projects](https://folio.williamguinaudie.com/my-projects)
 
   <hr/>
 <div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=neohuncho&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&exclude_repo=my-portfolio-old" alt="most used languages" width="410" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=neohuncho&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&exclude_repo=my-portfolio-old" alt="most used languages" width="350" />
 <br>
 <br>
-<img  src="https://github-readme-stats.vercel.app/api?username=neohuncho&show_icons=true&locale=en&theme=chartreuse-dark" alt="github stats" width="410" />
+<img  src="https://github-readme-stats.vercel.app/api?username=neohuncho&show_icons=true&locale=en&theme=chartreuse-dark" alt="github stats" width="350" />
 </div>
   <div>
     <h5>Languages</h5>
