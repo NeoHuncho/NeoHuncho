@@ -1,7 +1,7 @@
 <div align="center">
 <h3>Full Stack Developer</h3>
 
-[My Projects](https://folio.williamguinaudie.com/my-projects)
+[My Projects](https://williamguinaudie.com/my-projects)
 
   <hr/>
 <div>
