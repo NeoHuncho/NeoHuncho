@@ -86,7 +86,5 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="30" alt="eslint logo"  />
     <img width="5" />
     <img src="https://github.com/kibotrel/kibotrel/assets/45034541/35dc9106-f040-4951-8503-13ab7ba17043" height="30" alt="prettier logo"  />
-    <img width="5" />
-    <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="30" alt="vscode logo"  />
 </div>
 </div>
