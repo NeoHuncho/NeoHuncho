@@ -1,7 +1,6 @@
 <div align="center">
 <h3>Full Stack Developer</h3>
-
-[My Projects](https://williamguinaudie.com/my-projects)
+www.williamguinaudie.com
 
   <hr/>
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
